@@ -1,0 +1,49 @@
+{% include base_path %}
+
+<div class="archive__item">
+
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <!-- Award Title -->
+    <h2 class="archive__item-title" itemprop="headline">
+      {{ post.title }}
+    </h2>
+
+
+    <!-- Type + Venue + Date -->
+    <p class="award__meta">
+
+      {% if post.type %}
+      <span class="award__type">
+        {{ post.type }}
+      </span>
+      {% endif %}
+
+
+      {% if post.venue %}
+      <span class="award__venue">
+        · {{ post.venue }}
+      </span>
+      {% endif %}
+
+
+      {% if post.date %}
+      <span class="award__date">
+        · {{ post.date | date: "%b %Y" }}
+      </span>
+      {% endif %}
+
+    </p>
+
+
+    <!-- Description -->
+    {% if post.excerpt %}
+    <p class="archive__item-excerpt">
+      {{ post.excerpt | markdownify }}
+    </p>
+    {% endif %}
+
+
+  </article>
+
+</div>
