@@ -1,0 +1,27 @@
+<li class="award-cv-item">
+
+  <div class="award-title">
+    {{ post.title }}
+  </div>
+
+
+  <div class="award-meta">
+
+    {% if post.venue %}
+      {{ post.venue }}
+    {% endif %}
+
+    {% if post.date %}
+      · {{ post.date | date: "%Y" }}
+    {% endif %}
+
+  </div>
+
+
+  {% if post.description %}
+  <div class="award-description">
+    {{ post.description }}
+  </div>
+  {% endif %}
+
+</li>
