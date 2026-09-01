@@ -34,10 +34,9 @@ Education
 Research Interests
 ======
 
-* Generative models for 3D molecular generation
-* Data-driven conformational sampling and generative molecular dynamics
-* AI-driven molecular design and computational structural biology
-* Protein-ligand interaction modeling and virtual screening
+* Artificial intelligence and machine learning for biological applications
+* Generative models for molecular and peptide design
+* Structure-based modeling and prediction of biomolecular interactions
 
 
 Research Experience
