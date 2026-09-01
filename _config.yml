@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Yilin Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD student working at the intersection of artificial intelligence and computational biology."
   location         : "Espoo, Finland"
   employer         : "Aalto University"
