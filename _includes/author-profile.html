@@ -15,10 +15,29 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+
+  <h2 class="author__name">
+      {{ author.name }}
+  
+      {% if author.chinese_name %}
+      <span class="author__chinese">
+          {{ author.chinese_name }}
+      </span>
+      {% endif %}
+  
+  </h2>
+
+  {% if author.pronouns %}
+  <div class="pronouns-badge">
+      {{ author.pronouns }}
   </div>
+  {% endif %}
+
+  {% if author.bio %}
+  <div class="author__bio">
+      {{ author.bio }}
+  </div>
+  {% endif %}
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
