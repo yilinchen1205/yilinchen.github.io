@@ -222,3 +222,26 @@
   opacity: 0.85;
   margin-top: 0.2em;
 }
+
+/* CV section formatting */
+
+.page__content h1,
+.page__content h2 {
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+}
+
+
+.page__content ul {
+  margin-top: 0.5em;
+}
+
+
+.page__content li {
+  margin-bottom: 0.35em;
+}
+
+
+.page__content strong {
+  font-weight: 650;
+}
