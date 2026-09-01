@@ -2,7 +2,7 @@
 title: "Merit Student"
 collection: awards
 type: "Academic Honor"
-date: 2024-12
+date: 2024-12-01
 venue: "ShanghaiTech University"
 ---
 
