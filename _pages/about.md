@@ -11,14 +11,17 @@ I am currently a PhD student in School of Science at [Aalto University](https://
 
 Academic Background
 ======
-September 2026 - September 2029 (Expected)
-* Doctor of Science in School of Science, Aalto University
+**September 2026 - September 2029 (Expected)**  
+*Doctor of Science (PhD) in Science*  
+School of Science, [Aalto University](https://www.aalto.fi/en), Finland
 
-September 2023 - June 2026
-* Master of Natural Science in School of Life Science and Technology, ShanghaiTech University
+**September 2023 - June 2026**  
+*Master of Natural Science*  
+School of Life Science and Technology, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China
 
-September 2019 - June 2023
-* Bachelor of Science in School of Pharmacy, Chinese Pharmaceutical University
+**September 2019 - June 2023**  
+*Bachelor of Science in Pharmacy*  
+School of Pharmacy, [China Pharmaceutical University](https://www.cpu.edu.cn/), China
 
 Getting started
 ======
