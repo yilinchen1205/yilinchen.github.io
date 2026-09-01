@@ -2,7 +2,7 @@
 title: "Awards in International Directed Evolution Competition (IDEC)"
 collection: awards
 type: "Research Competition Award"
-date: 2023-11
+date: 2023-11-01
 venue: "International Directed Evolution Competition (IDEC)"
 ---
 
