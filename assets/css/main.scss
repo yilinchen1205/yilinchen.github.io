@@ -137,3 +137,34 @@
     text-decoration: none !important;
 
 }
+
+.publication-cv-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+
+.publication-cv-item {
+  margin-bottom: 2em;
+}
+
+
+.publication-title {
+  font-size: 1.15em;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.4em;
+}
+
+
+.publication-authors {
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin-bottom: 0.3em;
+}
+
+
+.publication-journal {
+  font-style: italic;
+  font-size: 0.95em;
+}
