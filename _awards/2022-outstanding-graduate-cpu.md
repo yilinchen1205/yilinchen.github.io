@@ -2,7 +2,7 @@
 title: "Outstanding Graduate"
 collection: awards
 type: "Academic Honor"
-date: 2022-11
+date: 2022-11-01
 venue: "China Pharmaceutical University"
 ---
 
