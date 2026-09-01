@@ -25,6 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Yilin Chen"
+  chinese_name     : "陈艺琳"
   pronouns         : "she/her"  
   bio              : "PhD researcher in AI-driven computational biology and molecular design"
   location         : "Espoo, Finland"
