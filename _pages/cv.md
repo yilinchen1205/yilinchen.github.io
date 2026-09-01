@@ -102,12 +102,11 @@ Talks & Presentations
 Honors & Awards
 ======
 
-<ul>
+<ul class="award-cv-list">
 {% for post in site.awards reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single-award-cv.html %}
 {% endfor %}
 </ul>
-
 
 Teaching Experience
 ======
