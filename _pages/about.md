@@ -1,57 +1,33 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a PhD student in School of Science at [Aalto University](https://www.aalto.fi/en). My research interest includes AI for drug discovery and applying machine learning in biology.
+I am a PhD researcher at the School of Science, [Aalto University](https://www.aalto.fi/en), Finland. My research interests lie at the intersection of **artificial intelligence, machine learning, and computational biology**, with the goal of developing computational approaches to understand and engineer biological systems.
 
-Academic Background
-------
-**September 2026 - September 2029** (Expected)  
-*Doctor of Science in Computer Science*  
-School of Science, [Aalto University](https://www.aalto.fi/en), Finland
+My current research focuses on **AI-driven molecular design, computational modeling, and data-driven approaches for biological discovery**. I am particularly interested in developing machine learning methods for molecular generation, protein and peptide design, and understanding biomolecular interactions through computational approaches.
 
-**September 2023 - June 2026**  
-*Master of Natural Science in Biology*  
-School of Life Science and Technology, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China
+## Research Interests
+====================
 
-**September 2019 - June 2023**  
-*Bachelor of Science in Pharmacy*  
-School of Pharmacy, [China Pharmaceutical University](https://www.cpu.edu.cn/), China
+* Artificial intelligence and machine learning for biological applications
+* Computational biology and bioinformatics
+* Generative models for molecular and peptide design
+* Structure-based modeling and prediction of biomolecular interactions
+* Data-driven approaches for understanding complex biological systems
 
-Honors & Awards
-------
-* **Outstanding Graduate**, ShanghaiTech University  
-  *June 2026*
+## Academic Background
+====================
 
-* **Outstanding Student Leader**, ShanghaiTech University  
-  *May 2026*
+I received my Master's degree in Biology from the School of Life Science and Technology, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), where I worked on computational approaches for studying biological systems, including GPCR-ligand interactions and molecular modeling.
 
-* **National Scholarship**, Ministry of Education of China  
-  *December 2024*
+Previously, I obtained my Bachelor's degree in Pharmacy from [China Pharmaceutical University](https://www.cpu.edu.cn/). My interdisciplinary background in pharmaceutical sciences and computational methods motivates my current research in AI-driven biology.
 
-* **Merit Student**, ShanghaiTech University  
-  *December 2024*
+## Current Focus
+====================
 
-* **Best Software Award, Best Algorithm Award, and Scientific Contribution Award**  
-  *International Directed Evolution Competition (IDEC)*  
-  *November 2023*
-
-* **Second Prize**, 8th Chinese College Students' Life Science Competition  
-  *August 2023*
-
-* **Outstanding Team Award**, Ultimate 72-hour Innovation Challenge for Global Young Talents  
-  *July 2023*
-
-* **Outstanding Graduate**, China Pharmaceutical University  
-  *November 2022*
-
-* **Second-Class Scholarship**, China Pharmaceutical University  
-  *December 2022*
-
-* **First-Class Scholarship**, China Pharmaceutical University  
-  *December 2021, December 2020*
+My current work explores how artificial intelligence can accelerate biological discovery, including generative modeling, molecular design, and computational analysis of biomolecular systems.
