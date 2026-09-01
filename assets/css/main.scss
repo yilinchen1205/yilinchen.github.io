@@ -163,6 +163,19 @@
   margin-bottom: 0.3em;
 }
 
+
+.publication-journal {
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+
+.talk-cv-list {
+  margin-top: 0;
+  padding-left: 0;
+}
+
+
 .talk-cv-item {
   list-style: none;
   margin-bottom: 1.5em;
@@ -181,10 +194,4 @@
   font-size: 0.95em;
   font-style: italic;
   opacity: 0.85;
-}
-
-
-.publication-journal {
-  font-style: italic;
-  font-size: 0.95em;
 }
