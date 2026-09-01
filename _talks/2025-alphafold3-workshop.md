@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Speaker"
 permalink: /talks/alphafold3-workshop
 venue: "iHuman Institute, ShanghaiTech University"
-date: 2025-01-01
+date: 2025-01-16
 location: "Shanghai, China"
 ---
 
