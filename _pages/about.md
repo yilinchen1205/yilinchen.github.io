@@ -25,7 +25,36 @@ School of Pharmacy, [China Pharmaceutical University](https://www.cpu.edu.cn/), 
 
 Honors & Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* **Outstanding Graduate**, ShanghaiTech University  
+  *June 2026*
+
+* **Outstanding Student Leader**, ShanghaiTech University  
+  *May 2026*
+
+* **National Scholarship**, Ministry of Education of China  
+  *December 2024*
+
+* **Merit Student**, ShanghaiTech University  
+  *December 2024*
+
+* **Best Software Award, Best Algorithm Award, and Scientific Contribution Award**  
+  *International Directed Evolution Competition (IDEC)*  
+  *November 2023*
+
+* **Second Prize**, 8th Chinese College Students' Life Science Competition  
+  *August 2023*
+
+* **Outstanding Team Award**, Ultimate 72-hour Innovation Challenge for Global Young Talents  
+  *July 2023*
+
+* **Outstanding Graduate**, China Pharmaceutical University  
+  *November 2022*
+
+* **Second-Class Scholarship**, China Pharmaceutical University  
+  *December 2022*
+
+* **First-Class Scholarship**, China Pharmaceutical University  
+  *December 2021, December 2020*
 
 Create content & metadata
 ------
