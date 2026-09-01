@@ -92,7 +92,7 @@ Publications
 Talks & Presentations
 ======
 
-<ul>
+<ul class="talk-cv-list">
 {% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
