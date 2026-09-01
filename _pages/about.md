@@ -14,10 +14,8 @@ My current research focuses on **AI-driven molecular design, computational model
 ## Research Interests
 
 * Artificial intelligence and machine learning for biological applications
-* Computational biology and bioinformatics
 * Generative models for molecular and peptide design
 * Structure-based modeling and prediction of biomolecular interactions
-* Data-driven approaches for understanding complex biological systems
 
 ## Academic Background
 
