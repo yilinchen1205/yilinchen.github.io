@@ -2,7 +2,7 @@
 title: "Outstanding Graduate"
 collection: awards
 type: "Academic Honor"
-date: 2026-06
+date: 2026-06-01
 venue: "ShanghaiTech University"
 ---
 
