@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Structural decoding of reversible covalent linkage of odorants in human olfactory receptor OR6A2"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
