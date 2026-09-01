@@ -2,7 +2,7 @@
 title: "Outstanding Student Leader"
 collection: awards
 type: "Student Leadership Award"
-date: 2026-05
+date: 2026-05-01
 venue: "ShanghaiTech University"
 ---
 
