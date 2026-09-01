@@ -2,7 +2,7 @@
 title: "National Scholarship"
 collection: awards
 type: "Academic Award"
-date: 2024-12-01
+date: 2024-12
 venue: "Ministry of Education of China"
 ---
 
