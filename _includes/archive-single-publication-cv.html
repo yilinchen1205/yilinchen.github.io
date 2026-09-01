@@ -1,0 +1,26 @@
+<li class="publication-cv-item">
+
+  <div class="publication-title">
+    {{ post.title }}
+  </div>
+
+
+  {% if post.authors %}
+  <div class="publication-authors">
+    {{ post.authors }}
+  </div>
+  {% endif %}
+
+
+  <div class="publication-journal">
+    {% if post.venue %}
+      <i>{{ post.venue }}</i>
+    {% endif %}
+
+    {% if post.date %}
+      , {{ post.date | date: "%Y" }}
+    {% endif %}
+  </div>
+
+
+</li>
