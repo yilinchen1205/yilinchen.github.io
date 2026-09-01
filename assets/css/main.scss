@@ -121,3 +121,19 @@
 
 }
 
+/* Remove underline from publication titles */
+
+.archive__item-title,
+.archive__item-title a {
+
+    text-decoration: none !important;
+
+}
+
+
+.archive__item-title:hover,
+.archive__item-title a:hover {
+
+    text-decoration: none !important;
+
+}
