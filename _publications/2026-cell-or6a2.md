@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-or6a2
 date: 2026-01-21
 venue: "Cell"
-paperurl: ""
+paperurl: "https://doi.org/10.1016/j.cell.2025.12.017"
 ---
 
 Tian Wang, Yiran Wu, Ling Wang, Shanshan Li, Fei Zhao, Lijie Wu, Yue Liu, Jingzi Qin, Qiwen Tan, Junlin Liu, Liting Zeng, **Yilin Chen**, et al.
