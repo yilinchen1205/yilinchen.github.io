@@ -111,29 +111,28 @@ Honors & Awards
 Teaching Experience
 ======
 
-* **Teaching Assistant, Computational Biology**  
-  ShanghaiTech University  
-  *Feb 2024 - Jun 2024*
+**Teaching Assistant, Computational Biology**  
+ShanghaiTech University  
+*Feb 2024 – Jun 2024*
 
-  * Developed teaching materials and solutions for sequence analysis, profile HMMs, SSN/GNN construction, and phylogenetic modeling.
-  * Mentored undergraduate students in Linux and computational biology workflows.
+* Developed teaching materials and solutions for sequence analysis, profile HMMs, SSN/GNN construction, and phylogenetic modeling.
+* Mentored undergraduate students in Linux and computational biology workflows.
 
 
 Leadership & Service
 ======
 
-* **Vice Director, Academic Development Division**  
-  Student Affairs Committee, School of Life Science and Technology, ShanghaiTech University
+**Vice Director, Academic Development Division**  
+Student Affairs Committee, School of Life Science and Technology, ShanghaiTech University
 
-  * Organized first-author forums with principal investigators and researchers.
-  * Co-organized academic salon events with institutions including the Chinese Society for Cell Biology.
+* Organized first-author forums with principal investigators and researchers.
+* Co-organized academic salon events with institutions including the Chinese Society for Cell Biology.
 
 
-* **Rotating Chair**  
-  Student Leadership Board, iHuman Institute, ShanghaiTech University
+**Rotating Chair**  
+Student Leadership Board, iHuman Institute, ShanghaiTech University
 
-  * Developed systems for student coordination and collaborated with faculty members on academic events.
-
+* Coordinated student academic activities and facilitated communication between students and faculty members.
 
 Skills
 ======
