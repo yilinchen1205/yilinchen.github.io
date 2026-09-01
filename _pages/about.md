@@ -10,7 +10,7 @@ redirect_from:
 I am currently a PhD student in School of Science at [Aalto University](https://www.aalto.fi/en). My research interest includes AI for drug discovery and applying machine learning in biology.
 
 Academic Background
-======
+------
 **September 2026 - September 2029 (Expected)**  
 *Doctor of Science in Computer Science*  
 School of Science, [Aalto University](https://www.aalto.fi/en), Finland
