@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at the School of Science, [Aalto University](https://www.aalto.fi/en), Finland. My research interests lie at the intersection of **artificial intelligence, machine learning, and computational biology**, with the goal of developing computational approaches to understand and engineer biological systems.
+I am a PhD researcher in Computer Science at the School of Science, [Aalto University](https://www.aalto.fi/en), Finland, supervised by **Prof. Qi Chen** and co-supervised by **Prof. Samuel Kaski** and **Prof. Simon Olsson**. My research lies at the intersection of **artificial intelligence, machine learning, and computational biology**, aiming to develop computational approaches for understanding and engineering biological systems.
 
 My current research focuses on **AI-driven molecular design, computational modeling, and data-driven approaches for biological discovery**. I am particularly interested in developing machine learning methods for molecular generation, protein and peptide design, and understanding biomolecular interactions through computational approaches.
 
